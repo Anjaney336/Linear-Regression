@@ -76,3 +76,46 @@ Fitting models
 Making predictions
 
 Evaluating using MSE, RMSE, R²
+
+How to Run
+
+Clone this repository
+
+git clone https://github.com/Anjaney336/Linear-Regression.git
+
+
+Install libraries
+
+pip install numpy pandas matplotlib scikit-learn jupyter
+
+
+Open the notebook
+
+jupyter notebook
+
+ Why I Made This Repo
+
+To start my GitHub coding journey
+
+To learn how to work with ML models
+
+To practice uploading and documenting projects
+
+To slowly build my portfolio for internships/jobs in Machine Learning
+
+ Future Goals
+
+This is just my first project—many more ML and AI projects will follow:
+
+Multiple Linear Regression
+
+Classification models
+
+Deep Learning
+
+Real Estate AI projects
+
+ Support
+
+If you’re viewing this repo, thank you!
+Feel free to leave a ⭐ on the repository to support my learning journey.
