@@ -2,7 +2,7 @@
 This repository contains a Jupyter Notebook created for learning and practicing Python, NumPy, Pandas, Matplotlib, and basic Machine Learning concepts.
 The notebook is beginner-friendly and includes explanations, code examples, visualizations, and exercises.
 
-📁 What This Notebook Includes
+ What This Notebook Includes
 
  Python basics
 
